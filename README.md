@@ -1,4 +1,4 @@
-# Gatsby Tailwind Styled Components Starter
+# Official revised website for Jeremiah Chienda
 
 ## Getting Started
 
